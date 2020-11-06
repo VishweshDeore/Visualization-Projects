@@ -4,4 +4,4 @@ The data consists of Air Quality Index values along with values of other compone
 The Data ranges from 2015 to 2020. Using the data various Visualizations were made using Tableua to better interpret the data and
 find meaningful insights.
 
-Project By : Vishwesh Deore [ https://github.com/VishweshDeore ] [September 2020]
+Project By : Vishwesh Deore [ https://github.com/VishweshDeore ] [ https://www.linkedin.com/in/vishweshdeore22/ ] [September 2020]
